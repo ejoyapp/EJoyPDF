@@ -12,4 +12,4 @@ Every time you upload a corporate document to an online PDF tool to merge or add
 🌍 Engineered for Global Compliance
 Document compliance varies by region. EJoyPDF is now completely multi-language localized (supporting EN, ZH, KO, JA, FR, DE), allowing global legal, financial, and engineering teams to handle PDF matrix workflows locally and securely.
 
-👉 Protect your document workflow: https://www.ejoyapp.com/zh/product/ejoypdf
+👉 Protect your document workflow: https://www.ejoyapp.com/product/ejoypdf
