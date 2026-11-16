@@ -3,7 +3,7 @@
   "version": "2.12.3",
   "releaseDate": "2026-11-16",
   "notes": {
-    "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection."
+    "en": "Added update checks with startup detection, title-bar notifications, and options to skip a version or be reminded later. Updates now follow the installation channel: Microsoft Store builds open the Store, Windows installer builds download the matching installer, and About displays the current channel."
   },
   "assets": {
     "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.3/EJoyPDF-Setup-2.12.3.0-x64.exe", 
