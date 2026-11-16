@@ -1,0 +1,18 @@
+{
+  "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
+  "version": "2.11.2",
+  "releaseDate": "2026-11-16",
+  "notes": {
+    "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection.",
+  },
+  "assets": {
+    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.2/EJoyPDF-Setup-2.12.2.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.2/EJoyPDF-Setup-2.12.2.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.2/EJoyPDF-Setup-2.12.2.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.2/EJoyPDF-Setup-2.12.2.0-x64.AppImage"
+  },
+  "stores": {
+    "macstore":"macappstore://itunes.apple.com/app/id0000000000",
+    "msstore": "ms-windows-store://pdp/?productid=9N4TZ2KGGPFX"
+  }
+}
