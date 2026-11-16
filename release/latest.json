@@ -3,7 +3,7 @@
   "version": "2.12.3",
   "releaseDate": "2026-11-16",
   "notes": {
-    "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection.",
+    "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection."
   },
   "assets": {
     "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.3/EJoyPDF-Setup-2.12.3.0-x64.exe", 
