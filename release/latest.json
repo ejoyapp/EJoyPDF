@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "2.12.3",
-  "releaseDate": "2026-11-16",
+  "version": "2.12.4",
+  "releaseDate": "2026-11-17",
   "notes": {
-    "en": "Added update checks with startup detection, title-bar notifications, and options to skip a version or be reminded later. Updates now follow the installation channel: Microsoft Store builds open the Store, Windows installer builds download the matching installer, and About displays the current channel."
+    "en": "Improved PDF user and owner password handling and clarified document restrictions versus current-session permissions. Unified password, permission, and encryption settings into one Document security settings dialog with explicit Keep, Change, and Remove actions and a clearer layout."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.3/EJoyPDF-Setup-2.12.3.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.3/EJoyPDF-Setup-2.12.3.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.3/EJoyPDF-Setup-2.12.3.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.3/EJoyPDF-Setup-2.12.3.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
