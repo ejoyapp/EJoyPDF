@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "2.12.4",
-  "releaseDate": "2026-11-17",
+  "version": "2.12.5",
+  "releaseDate": "2026-11-19",
   "notes": {
-    "en": "Improved PDF user and owner password handling and clarified document restrictions versus current-session permissions. Unified password, permission, and encryption settings into one Document security settings dialog with explicit Keep, Change, and Remove actions and a clearer layout."
+    "en": "Improved PDF user and owner password handling and clarified document restrictions versus current-session permissions. Unified password, permission, and encryption settings into one Document security settings dialog with explicit Keep, Change, and Remove actions and a clearer layout.\n\nAdded certificate-based PDF protection with recipient public certificate import, digital identity import through the operating system, and support for opening certificate-protected PDFs using an accessible private key. Saving encrypted copies now runs in the background with stage-based progress and cancellation; EJoyPDF does not retain private keys."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.4/EJoyPDF-Setup-2.12.4.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.5/EJoyPDF-Setup-2.12.5.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.5/EJoyPDF-Setup-2.12.5.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.5/EJoyPDF-Setup-2.12.5.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.5/EJoyPDF-Setup-2.12.5.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
