@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "2.12.6",
+  "version": "2.12.7",
   "releaseDate": "2026-11-20",
   "notes": {
     "en": "Improved Markdown to PDF export with hierarchical PDF bookmarks, document metadata, and font embedding options: subset (default), full font, or no embedding, with fallback notices. Added document size analysis to Document info to show font, image, and content stream usage, and refined the dialog layout."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.6/EJoyPDF-Setup-2.12.6.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.6/EJoyPDF-Setup-2.12.6.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.6/EJoyPDF-Setup-2.12.6.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.6/EJoyPDF-Setup-2.12.6.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
