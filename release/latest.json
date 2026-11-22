@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "2.12.7",
-  "releaseDate": "2026-11-20",
+  "version": "2.12.8",
+  "releaseDate": "2026-11-22",
   "notes": {
-    "en": "Improved Markdown to PDF export with hierarchical PDF bookmarks, document metadata, and font embedding options: subset (default), full font, or no embedding, with fallback notices. Added document size analysis to Document info to show font, image, and content stream usage, and refined the dialog layout."
+    "en": "Improved the All features and Usage guide experience.\n\nImproved Markdown to PDF with the source file path, persistent recent Markdown files, source-based export names and prompts before replacing unexported edits. Fixed export save-dialog path handling and clipped button focus outlines in the clear and completion dialogs."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.7/EJoyPDF-Setup-2.12.7.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.8/EJoyPDF-Setup-2.12.8.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.8/EJoyPDF-Setup-2.12.8.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.8/EJoyPDF-Setup-2.12.8.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.8/EJoyPDF-Setup-2.12.8.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
