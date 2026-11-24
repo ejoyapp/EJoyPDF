@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "2.12.9",
+  "version": "2.13.0",
   "releaseDate": "2026-11-24",
   "notes": {
     "en": "Improved PDF rendering compatibility and fixed color, missing-glyph and text layout issues, with expanded ICC color management and vertical text support. Optimized font and glyph caching for faster rendering, and added three rendering quality modes to balance responsiveness while scrolling and zooming with the same final display quality."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.9/EJoyPDF-Setup-2.12.9.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.9/EJoyPDF-Setup-2.12.9.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.9/EJoyPDF-Setup-2.12.9.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.12.9/EJoyPDF-Setup-2.12.9.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
