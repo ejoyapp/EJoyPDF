@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "2.13.0",
-  "releaseDate": "2026-11-24",
+  "version": "2.13.1",
+  "releaseDate": "2026-11-26",
   "notes": {
-    "en": "Improved PDF rendering compatibility and fixed color, missing-glyph and text layout issues, with expanded ICC color management and vertical text support. Optimized font and glyph caching for faster rendering, and added three rendering quality modes to balance responsiveness while scrolling and zooming with the same final display quality."
+    "en": "Added JBIG2 image decoding and improved Windows file opening with single-instance handoff, duplicate-tab detection and recovery when the primary instance exits. Added options to open or move document tabs into a new window, clearer unsaved-edit indicators and safer transfer prompts, with centered, draggable confirmation dialogs."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.0/EJoyPDF-Setup-2.13.0.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.1/EJoyPDF-Setup-2.13.1.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.1/EJoyPDF-Setup-2.13.1.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.1/EJoyPDF-Setup-2.13.1.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/EJoyPDF/releases/download/v2.13.1/EJoyPDF-Setup-2.13.1.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
